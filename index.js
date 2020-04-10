@@ -60,6 +60,7 @@ export default postcss.plugin('postcss-lab-function', opts => {
 							)
 
 							children[0].value = String(rgbValues[0]);
+							children[0].unit = '';
 							children[1].value = String(rgbValues[1]);
 							children[2].value = String(rgbValues[2]);
 
