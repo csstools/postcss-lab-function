@@ -1,3 +1,6 @@
+<div align="center">⚠️ PostCSS Lab Function was moved to <a href="https://github.com/csstools/postcss-plugins/tree/main/plugins/postcss-lab-function">@csstools/postcss-plugins</a>. ⚠️ <br>
+<a href="https://github.com/csstools/postcss-plugins/discussions/75">Read the announcement</a></div>
+
 # PostCSS Lab Function [<img src="https://postcss.github.io/postcss/logo.svg" alt="PostCSS Logo" width="90" height="90" align="right">][postcss]
 
 [<img alt="npm version" src="https://img.shields.io/npm/v/postcss-lab-function.svg" height="20">][npm-url]
